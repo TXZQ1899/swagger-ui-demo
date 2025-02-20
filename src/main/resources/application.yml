@@ -3,14 +3,3 @@ springdoc:
     path: /v3/api-docs
   swagger-ui:
     path: /dev-tools/
-#logging:
-#  level:
-#    root: debug # 设置全局日志级别
-#    org.springframework: info
-#    com.txzq: debug # 指定某个包的日志级别
-#    org.springdoc: debug
-#  file:
-#    name: logs/app.log # 指定日志文件路径
-#  pattern:
-#    console: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n" # 控制台日志格式
-#    file: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n" # 文件日志格式
